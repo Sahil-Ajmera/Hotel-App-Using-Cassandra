@@ -66,3 +66,7 @@ Check repo when informed
 Understand code logic and try to update your code and test if it works for you
 
 Approve/Reject based on working and code with comments 
+
+### To Test someone else's pull requst on your local
+Follow this link:
+https://help.github.com/en/articles/checking-out-pull-requests-locally
