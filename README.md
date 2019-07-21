@@ -70,3 +70,11 @@ Approve/Reject based on working and code with comments
 ### To Test someone else's pull requst on your local
 Follow this link:
 https://help.github.com/en/articles/checking-out-pull-requests-locally
+
+## Getting Started
+
+### Download or clone project
+git clone https://github.com/Sahil-Ajmera/Hotel-App-Using-Cassandra.git
+
+### Change Cassandra Configs in Cassandra installation
+Make changes to seed, listen and rpc address in the cassandra.yaml file to the address on which data will be replicated. Cassandra.yaml file lives in CassandraInstallationPath/conf/cassandra.yaml
